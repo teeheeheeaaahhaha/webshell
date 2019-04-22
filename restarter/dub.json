@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"fjwakelfjklerfjkle"
+	],
+	"copyright": "Copyright © 2019, ifjkaegjrkelgjrtkljgklrtjgklrtjgklj",
+	"dependencies": {
+		"vibe-d": "~>0.8.2"
+	},
+	"description": "restarter",
+	"license": "GPL",
+	"name": "restarter"
+}

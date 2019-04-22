@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/restarter
+restarter.so
+restarter.dylib
+restarter.dll
+restarter.a
+restarter.lib
+restarter-test-*
+*.exe
+*.o
+*.obj
+*.lst

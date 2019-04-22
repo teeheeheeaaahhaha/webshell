@@ -1,0 +1,13 @@
+{
+	"description": "Webserver for webshell.",
+	"dependencies": {
+		"vibe-d": "~>0.8.2"
+	},
+	"authors": [
+		"fjklwdfjergjiro"
+	],
+	"copyright": "Copyright © 2018, Ffajwklefjklergjklergjklrejgklj kerjkg jerk",
+	"license": "GPL",
+	"name": "server",
+	"dflags": ["-J=pages"]
+}
